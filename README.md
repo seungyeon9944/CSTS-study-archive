@@ -5,6 +5,11 @@ QA 전문가가 되고 싶어 응시하였던 **CSTS (Certified Software Test Sp
 <br/>
 <br/>
 
+### 시험 결과
+![CSTS 시험 결과](https://i.imgur.com/xQyedTw.jpeg)
+<br/>
+<br/>
+
 ### 참고 자료
 `[소프트웨어 테스트 전문가 (CSTS) 가이드]`, 한국정보통신기술협회(TTA), 도서출판 홍릉, 2025
 
