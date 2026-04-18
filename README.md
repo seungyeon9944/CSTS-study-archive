@@ -1,5 +1,5 @@
 ## 🔬 CSTS 🔬
-QA 전문가가 되고 싶어 응시하였던 **CSTS (Certified Software Test Specialist) 일반등급 (Foundation Level)** 개념 정리본입니다.
+SW 테스팅 공부를 위해 응시했던 **CSTS (Certified Software Test Specialist) 일반등급 (Foundation Level)** 개념 정리본입니다.
 
 상업적 이용을 제외한 모든 이용 가능합니다 !
 <br/>
